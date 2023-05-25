@@ -1,0 +1,11 @@
+{
+  "name": "zig-test",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "minimatch": "9.0.1",
+    "serve": "14.2.0"
+  }
+}
