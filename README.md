@@ -10,6 +10,8 @@ A minimal Web Assembly example built from Zig's init-lib.
 
 	zig build
 
+You need to move the resulting wasmtest.wasm file from /zig-cache/ to /www/
+
 
 ## Running
 
